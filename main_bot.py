@@ -7,7 +7,7 @@ import os
 from datetime import datetime
 
 load_dotenv()
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN=7883349561:AAEuUvq3eknPFcDGdzmn4CGTXwDCyB9lcYg
 
 translations = {
     "start_message": {
